@@ -6,3 +6,7 @@ el uso de relojes para evitar inconsistencias con multiples clientes en simultan
 Para mantener el orden aplicamos sincronización de hilos mediante el uso del bloque synchronized en las partes críticas delcódigo. Esto evitara que dos solicitudes simultáneas modifiquen los mismos datos al mismo tiempo. Adicionalmente, se incluyen mecanismos de
 validación usando try-catch, lo que permitecontrolar excepciones y asegurar que los datos sean correctos antes de procesarlos. Los cálculos de subtotal, IGV (18%) y total se realizan de manera automática y segura, garantizando que cada pedido llegue a la base de datos con la información completa y precisa.
 <img width="1222" height="622" alt="image" src="https://github.com/user-attachments/assets/9fad3b4d-3c9f-45dc-b91e-38766ce66fb0" />
+
+## Authors
+- [@Orquoest](https://github.com/Orquoest)
+- [@Orquoest](https://github.com/Orquoest1233)
